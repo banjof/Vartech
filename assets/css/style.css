@@ -4,7 +4,7 @@
 ***** CSS INDEX *****
 ********************/
 /*-- Margin Top --*/
-@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&family=Poppins:wght@300;400;500;600;700&display=swap");
 .mt-5 {
   margin-top: 5px;
 }
@@ -15386,7 +15386,7 @@ h6, .h6 {
 }
 
 .slider__shape--two {
-  right: 0;
+  left: 0;
   top: 0;
 }
 
@@ -21632,7 +21632,7 @@ header.sticky-on.sticky .navbar-wrap {
   left: 0;
   height: 100%;
   width: 100%;
-  background: rgba(0, 0, 0, 0.85);
+  background: rgba(0, 0, 0, 0.4);
   z-index: 0;
 }
 
