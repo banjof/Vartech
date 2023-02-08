@@ -14904,16 +14904,17 @@ h6, .h6 {
 .header-bottom__software_row {
   -webkit-box-pack: start;
   -ms-flex-pack: start;
-  justify-content: start;
+  justify-content: space-between;
 }
 
 .header-bottom__software_row .main-menu {
-  padding-left: 286px;
+  padding-right: 50px;
+  /* float: right; */
 }
 
 @media (max-width: 1366px) {
   .header-bottom__software_row .main-menu {
-    padding-left: 30px;
+    padding-left: 10px;
   }
 }
 
@@ -16386,7 +16387,7 @@ h6, .h6 {
 }
 
 .footer--bg {
-  background: #181a2e;
+  background: #1e92df;
 }
 
 .footer--top-software--bg {
